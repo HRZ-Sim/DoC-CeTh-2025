@@ -79,7 +79,7 @@ Empirical analysis/scriptFunction/: Contains utility functions supporting variou
 
 
 
-2 Simulation/
+2. Simulation/
 
 This folder contains scripts for simulating conditions and analyzing simulated CeTh activity.
 
