@@ -1,5 +1,5 @@
 # DoC-CeTh-2025
-This repository contains scripts for analyzing both empirical clinical data and simulated CeTh activity using a conductance-based model, as detailed in our study, "A Unified Central Thalamus Mechanism Underlying Diverse Recoveries in Disorders of Consciousness." Below, you will find a detailed description of each folder, its functionality, and the necessary software environment and dependencies.
+This repository contains scripts for analyzing both empirical clinical data and simulated CeTh activity using a conductance-based model, as detailed in our study, "A Shared Central Thalamus Mechanism Underlying Diverse Recoveries in Disorders of Consciousness." Below, you will find a detailed description of each folder, its functionality, and the necessary software environment and dependencies.
 
 [General Requirements]
 
